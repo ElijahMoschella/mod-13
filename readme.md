@@ -1,0 +1,1 @@
+this application allows you to connect your backend database. when u inact it to start you will be able to s3ee product lines inventory and other tags. using put and delete you can modify ther dtatbase 
